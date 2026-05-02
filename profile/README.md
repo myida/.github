@@ -1,6 +1,10 @@
-# myida
+<p align="center">
+  <img src="logo.svg" alt="IDA" height="80">
+</p>
 
-**Open-source decentralized identity for the AI age.**
+<p align="center">
+  <strong>Open-source decentralized identity for the AI age.</strong>
+</p>
 
 We build [**IDA**](https://github.com/myida/ida) — a W3C-conformant decentralized-identity platform with first-class AI-agent identity, on-chain trust scoring, and capability-bound delegation chains. IDA gives every agent a verifiable identity, every delegation a cryptographic chain, and every nation a trust registry it can govern.
 
@@ -24,12 +28,6 @@ We build [**IDA**](https://github.com/myida/ida) — a W3C-conformant decentrali
 ## Standards we anchor on
 
 W3C DID Core v1.0 · W3C VC Data Model 2.0 · DIF DIDComm v2 · DIF Presentation Exchange v2.0.0 · MCP-I · A2A.
-
-## Contact
-
-- Governance / partnerships / press: `opensource@infinia.ai`
-- Security: `security@infinia.ai`
-- Code of Conduct: `conduct@infinia.ai`
 
 ---
 
