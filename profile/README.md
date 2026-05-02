@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="logo.png" alt="IDA" height="80">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logo-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="logo.png">
+    <img src="logo.png" alt="IDA" height="80">
+  </picture>
 </p>
 
 <p align="center">
