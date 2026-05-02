@@ -1,9 +1,6 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="logo-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="logo.png">
-    <img src="logo.png" alt="IDA" height="80">
-  </picture>
+  <img alt="IDA" src="logo.svg#gh-light-mode-only" height="80">
+  <img alt="IDA" src="logo-white.svg#gh-dark-mode-only" height="80">
 </p>
 
 <p align="center">
