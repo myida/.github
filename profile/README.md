@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.svg" alt="IDA" height="80">
+  <img src="logo.png" alt="IDA" height="80">
 </p>
 
 <p align="center">
